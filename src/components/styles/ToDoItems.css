@@ -1,0 +1,20 @@
+.Item {
+  max-width: 660px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Item-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.Item-title {
+  font-size: 1.5em;
+}
+
+.Item-intro {
+  font-size: large;
+}
